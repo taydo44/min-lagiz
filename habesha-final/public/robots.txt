@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://habesha-services.vercel.app/sitemap.xml
